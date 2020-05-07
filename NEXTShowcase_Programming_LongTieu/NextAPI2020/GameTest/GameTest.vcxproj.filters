@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="App\app.cpp" />
+    <ClCompile Include="App\main.cpp" />
+    <ClCompile Include="App\SimpleController.cpp" />
+    <ClCompile Include="App\SimpleSound.cpp" />
+    <ClCompile Include="App\SimpleSprite.cpp" />
+    <ClCompile Include="App\TextureLoader.cpp" />
+    <ClCompile Include="GameTest.cpp" />
+    <ClCompile Include="stdafx.cpp" />
+    <ClCompile Include="enemy.cpp">
+      <Filter>enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="player.cpp">
+      <Filter>player</Filter>
+    </ClCompile>
+    <ClCompile Include="bullet.cpp">
+      <Filter>player</Filter>
+    </ClCompile>
+    <ClCompile Include="enemy_factory.cpp">
+      <Filter>enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="game_settings.cpp">
+      <Filter>game levels</Filter>
+    </ClCompile>
+    <ClCompile Include="game_map.cpp">
+      <Filter>game levels</Filter>
+    </ClCompile>
+    <ClCompile Include="Point.cpp" />
+    <ClCompile Include="chase_enemy.cpp">
+      <Filter>enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Coin.cpp">
+      <Filter>enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Mine.cpp">
+      <Filter>enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="ReflectiveEnemy.cpp">
+      <Filter>enemy</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="App\app.h" />
+    <ClInclude Include="App\AppSettings.h" />
+    <ClInclude Include="App\main.h" />
+    <ClInclude Include="App\SimpleController.h" />
+    <ClInclude Include="App\SimpleSound.h" />
+    <ClInclude Include="App\SimpleSprite.h" />
+    <ClInclude Include="App\TextureLoader.h" />
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="targetver.h" />
+    <ClInclude Include="enemy.h">
+      <Filter>enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="player.h">
+      <Filter>player</Filter>
+    </ClInclude>
+    <ClInclude Include="bullet.h">
+      <Filter>player</Filter>
+    </ClInclude>
+    <ClInclude Include="enemy_factory.h">
+      <Filter>enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="vector2.h" />
+    <ClInclude Include="game_settings.h">
+      <Filter>game levels</Filter>
+    </ClInclude>
+    <ClInclude Include="game_map.h">
+      <Filter>game levels</Filter>
+    </ClInclude>
+    <ClInclude Include="chase_enemy.h">
+      <Filter>enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Point.h" />
+    <ClInclude Include="Coin.h">
+      <Filter>enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Mine.h">
+      <Filter>enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="ReflectiveEnemy.h">
+      <Filter>enemy</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="enemy">
+      <UniqueIdentifier>{98ebca35-bece-47a7-a177-50ea0bd59f14}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="player">
+      <UniqueIdentifier>{6fcb0c3f-6e3d-4a2a-93a0-c335f7815358}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="game levels">
+      <UniqueIdentifier>{0cfb948a-fb7c-44f1-a2f1-9db70d99e76e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

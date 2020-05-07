@@ -1,0 +1,41 @@
+﻿  stdafx.cpp
+  app.cpp
+  main.cpp
+  SimpleController.cpp
+  SimpleSound.cpp
+  SimpleSprite.cpp
+  TextureLoader.cpp
+  bullet.cpp
+c:\users\tieuc\downloads\nextshowcase_programming_longtieu\nextapi2020\gametest\vector2.h(7): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  chase_enemy.cpp
+  Coin.cpp
+  enemy.cpp
+  enemy_factory.cpp
+  GameTest.cpp
+c:\users\tieuc\downloads\nextshowcase_programming_longtieu\nextapi2020\gametest\gametest.cpp(143): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\tieuc\downloads\nextshowcase_programming_longtieu\nextapi2020\gametest\gametest.cpp(144): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\tieuc\downloads\nextshowcase_programming_longtieu\nextapi2020\gametest\gametest.cpp(151): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\tieuc\downloads\nextshowcase_programming_longtieu\nextapi2020\gametest\gametest.cpp(152): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\tieuc\downloads\nextshowcase_programming_longtieu\nextapi2020\gametest\gametest.cpp(159): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\tieuc\downloads\nextshowcase_programming_longtieu\nextapi2020\gametest\gametest.cpp(160): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\tieuc\downloads\nextshowcase_programming_longtieu\nextapi2020\gametest\gametest.cpp(167): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\tieuc\downloads\nextshowcase_programming_longtieu\nextapi2020\gametest\gametest.cpp(168): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  game_map.cpp
+  game_settings.cpp
+c:\users\tieuc\downloads\nextshowcase_programming_longtieu\nextapi2020\gametest\game_settings.cpp(28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\tieuc\downloads\nextshowcase_programming_longtieu\nextapi2020\gametest\game_settings.cpp(29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\tieuc\downloads\nextshowcase_programming_longtieu\nextapi2020\gametest\game_settings.cpp(30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\tieuc\downloads\nextshowcase_programming_longtieu\nextapi2020\gametest\game_settings.cpp(31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\tieuc\downloads\nextshowcase_programming_longtieu\nextapi2020\gametest\game_settings.cpp(32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\tieuc\downloads\nextshowcase_programming_longtieu\nextapi2020\gametest\game_settings.cpp(35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\tieuc\downloads\nextshowcase_programming_longtieu\nextapi2020\gametest\game_settings.cpp(36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\tieuc\downloads\nextshowcase_programming_longtieu\nextapi2020\gametest\game_settings.cpp(37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Mine.cpp
+  player.cpp
+c:\users\tieuc\downloads\nextshowcase_programming_longtieu\nextapi2020\gametest\vector2.h(7): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Point.cpp
+  ReflectiveEnemy.cpp
+  Generating Code...
+  GameTest.vcxproj -> C:\Users\tieuc\Downloads\NEXTShowcase_Programming_LongTieu\NextAPI2020\x64\Debug\GameTest.exe
+  C:\Users\tieuc\Downloads\NEXTShowcase_Programming_LongTieu\NextAPI2020\\GameTest\glut\bin\x64\freeglut.dll
+  1 File(s) copied
