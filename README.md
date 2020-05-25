@@ -22,6 +22,6 @@ C++
 There is further plan to convert this project into modern OpenGL usage and improve the graphic with texture and sound effects.
 
 ## Project Information
-* Source: https://github.com/tieuchanlong/TyperShark-Remake
+* Source: https://github.com/tieuchanlong/Tempest-Remake
 * Online access: None
 
